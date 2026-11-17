@@ -2,7 +2,7 @@
 // Kurulum rehberindeki adımlarla bu üç bölümü doldurun.
 self.CUZ_AYAR = {
   // 1) Google Apps Script web uygulaması adresi (sonu /exec ile biter)
-  API_ADRESI: "BURAYA-GOOGLE-ADRESI",
+  API_ADRESI: "https://script.google.com/macros/s/AKfycbxwiUf0VWGiYKwFkjoQ5dLcYt9vsMlwY7H5ma-jI6tlta4QUYqRHe_cGnVkaUhDWqJEAQ/exec",
 
   // 2) Firebase → Proje ayarları → Genel → "Uygulamalarınız" altındaki firebaseConfig
   FIREBASE: {
